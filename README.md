@@ -1,7 +1,8 @@
 # 🛡️ CySA+ Cybersecurity Lab Analysis Project
 
 ## 📌 Overview
-This project demonstrates practical cybersecurity skills through a structured lab environment involving network setup, traffic analysis, vulnerability assessment, and incident response concepts.
+
+This repository contains one of my cybersecurity lab projects where I practiced networking, packet analysis, vulnerability assessment, and basic security concepts in a virtual lab environment.The goal of this project was to gain hands-on experience with cybersecurity tools and improve my understanding of how networks and security technologies work.
 
 ---
 
@@ -54,12 +55,6 @@ Explored scanning techniques and tools such as Nessus for:
 - Risk Transference  
 - Risk Acceptance  
 
----
-
-## 📸 Screenshots
-(Add your lab screenshots here)
-
----
 
 ## 🧠 Skills Demonstrated
 - Network Security
@@ -76,5 +71,5 @@ This project was conducted in a controlled lab environment for educational purpo
 
 click here to view more: https://asi-cyberlab.github.io/Cybersecurity-Analysis-Lab/
 
-## 🚀 Author
+## 👨‍💻 Author
 Asikelelwe Awonke Mngoma
